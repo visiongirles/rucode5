@@ -4,6 +4,8 @@
 
 // Вывод: Одно число — наибольший общий делитель введённых чисел.
 
+// E.g.: input: 26 44 -> output: 2
+
 #include <iostream>
 using namespace std;
 
